@@ -118,7 +118,7 @@ body {
   color: #ffffff;
   background-color: rgb(255, 125, 4);
   border-radius: 0.5rem;
-  box-shadow: 1px 2px 2px rgb(255, 255, 255);
+  box-shadow: 1px 2px 2px rgb(0, 0, 0);;
 }
 
 /* Tentang Kami Section Start */
